@@ -1,0 +1,8 @@
+File successfully created
+Hi
+I am Kristina
+And I wanna test the function created for task 4.
+I know this file's content looks a little bit odd, but...
+there is an excellent and logical explanation for it. 
+There used to be a lot of empty rows, but now they seem to have dispearred.
+Woo-hoo!
