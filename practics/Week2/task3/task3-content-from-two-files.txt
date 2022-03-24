@@ -1,0 +1,11 @@
+This is how the file starts...
+THE FIRST FILE named "task3-contentFile1.txt" 
+contains this very important and top secret information.
+ 
+This is how the file starts...
+THE SECOND FILE named "task3_contentFile2.txt"
+consists of this highly confidential information about the unicorn "Steve."
+We cannot let Steve down by telling the world about him. 
+Otherwise, we would need to hand him over to the authorities. 
+Steve wants to remain a secret. 
+Steve is so very grateful to you. 

@@ -1,0 +1,4 @@
+This is how the file starts...
+THE FIRST FILE named "task3-contentFile1.txt" 
+contains this very important and top secret information.
+ 
