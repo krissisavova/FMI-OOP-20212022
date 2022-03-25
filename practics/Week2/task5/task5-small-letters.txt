@@ -1,0 +1,4 @@
+File successfully created.
+This file constains WORDS witH small and CAPITAL letters.
+This program should make the small ones large and the large ones respectively small. 
+Well, Let'S See ThaT!
