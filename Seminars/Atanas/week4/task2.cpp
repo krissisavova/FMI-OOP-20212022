@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstring>
-#include <cassert>
 using std::cin;
 using std::cout;
 using std::endl;
@@ -34,7 +33,6 @@ public:
 
 	void setPrincipal(double _principalOfClient) {
 		principalOfClient = _principalOfClient;
-		assert(principalOfClient >= 0);
 	}
 
 	void createBankAccount() {
