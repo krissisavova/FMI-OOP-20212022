@@ -77,8 +77,12 @@ void DynamicArray::setAtIndex(const unsigned index, const int element) {
 }
 
 void DynamicArray::push_back(const int& element) {
+	// this check is not necessary if we already have it in the resize() function above
+	if(this->data >= capacity || this->data == nullptr) {
+		this->resize();
+	}
 	this->data[this->size] = element;
-	size++;
+	size++;	
 }
 
 void DynamicArray:: print() const {
