@@ -35,6 +35,8 @@ private:
 		for (unsigned i = 0; i < size; i++) {
 			newData[i] = name[i];
 		}
+		del();
+		this->name = newData;
 	}
 
 public:
