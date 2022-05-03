@@ -9,7 +9,7 @@ protected:
 	double price;
 	unsigned boughtProducts;
 	bool typeOfPurchase;
-
+private:
 	void copy(const Base& other) {
 		numOfOrder = other.numOfOrder;
 		price = other.price;
