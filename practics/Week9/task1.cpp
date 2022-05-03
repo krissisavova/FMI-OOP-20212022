@@ -7,7 +7,7 @@ class Base {
 protected:
 	char* name;
 	unsigned experience;
-
+private:
 	void del() {
 		delete[] name;
 	}
